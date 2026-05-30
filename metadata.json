@@ -1,0 +1,6 @@
+{
+  "name": "Anonymous Chat Room",
+  "description": "A real-time anonymous public chatroom where users can converse using generated pen names, with reactions, live user counts, and complete privacy protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
